@@ -27,3 +27,4 @@ print(f"Факториал числа {rows}: {factorial(rows)}")
 # Укажите количество строк пирамиды
 rows = 24
 print_fibonacci_pyramid(rows)
+
